@@ -1,4 +1,4 @@
-<h1>Leivan Ravi <br/><a href="https://github.com/LeRavi">Programmer</a>, <a href="https://www.linkedin.com/in/leivan-ravi-04ba3b245/">Linkedin</a>
+<h1>Leivan Ravi <br/><a href="https://github.com/LeRavi">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
