@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Leivan Ravi <br/><a href="https://github.com/LeRavi">Programmer</a>, <a href="https://www.linkedin.com/in/leivan-ravi-04ba3b245/">Linkedin</a>
 
-<!--
-**LeRavi/LeRavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>SQL practice </b>
+  - [SQL data exploration](https://github.com/LeRavi/PortfolioProjects/blob/main/Covid%20portfolio%20project.sql)
+  - [Tableu visualization](https://public.tableau.com/views/CovidDashbord_16640567588410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Tableu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Python practice</b>
+  - [OOP_coffe_machine](https://github.com/LeRavi/oop_coffee_machine)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="LeivanRavi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/leivan-ravi-04ba3b245
+
+
+
