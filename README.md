@@ -12,7 +12,7 @@
   - [turtle drawing practice](https://github.com/LeRavi/turtle-painting-project)
   
 - <b>Games in python</b>
-  - [turtle drawing practice](https://github.com/LeRavi/turtle-painting-project)
+  
 
 
 <h2> 🤳 Connect with me:</h2>
