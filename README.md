@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>SQL practice </b>
+- <b>SQL practice </b>                                                                                            - <b>SQL practice </b>                                                                  
   - [SQL data exploration](https://github.com/LeRavi/PortfolioProjects/blob/main/Covid%20portfolio%20project.sql)
   - [Tableu visualization](https://public.tableau.com/views/CovidDashbord_16640567588410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Tableu)
 
