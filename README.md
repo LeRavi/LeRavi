@@ -9,6 +9,7 @@
 - <b>Python practice</b>
   - [OOP_coffe_machine](https://github.com/LeRavi/oop_coffee_machine)
   - [Simple quiz program](https://github.com/LeRavi/simple_quiz_program)
+  - [turtle drawing practice](https://github.com/LeRavi/turtle-painting-project)
 
 
 <h2> 🤳 Connect with me:</h2>
