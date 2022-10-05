@@ -29,7 +29,7 @@
 }
 #first {
     width: 300px;
-    float:left; /* add this */
+    float:left; /* egbargbkjsanvgasdfgvndsævnasængvsdlækgvnælan*/
     border: 1px solid red;
 }
 #second {
