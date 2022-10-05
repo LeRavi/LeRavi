@@ -20,22 +20,6 @@
 [<img align="left" alt="LeivanRavi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/leivan-ravi-04ba3b245
-  
-  
-#wrapper {
-    width: 500px;
-    border: 1px solid black;
-    overflow: hidden; /* will contain if #first is longer than #second */
-}
-#first {
-    width: 300px;
-    float:left; /* egbargbkjsanvgasdfgvndsævnasængvsdlækgvnælan*/
-    border: 1px solid red;
-}
-#second {
-    border: 1px solid green;
-    overflow: hidden; /* if you don't want #second to wrap below #first */
-}
 
 
 
