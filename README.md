@@ -12,6 +12,10 @@
   - [turtle drawing practice](https://github.com/LeRavi/turtle-painting-project)
   
 - <b>Games in python</b>
+  - [Blackjack](https://github.com/LeRavi/blackjack_game)
+  - [Hangman](https://github.com/LeRavi/Hangman)
+  - [Higher/Lower](https://github.com/LeRavi/higer-lower-game)
+  
   
 
 
