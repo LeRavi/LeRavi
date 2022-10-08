@@ -5,6 +5,7 @@
 - <b>SQL practice </b>                                                               
   - [SQL data exploration, covid data](https://github.com/LeRavi/PortfolioProjects/blob/main/Covid%20portfolio%20project.sql)
   - [Tableu visualization, covid data](https://public.tableau.com/views/CovidDashbord_16640567588410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Tableu)
+  - [SQL data cleaning, NashvilleHousing dataset](https://github.com/LeRavi/dataCleaningNashvilleHousing)
 
 - <b>Python practice</b>
   - [OOP_coffe_machine](https://github.com/LeRavi/oop_coffee_machine)
