@@ -8,8 +8,8 @@
   - [SQL data cleaning, NashvilleHousing dataset](https://github.com/LeRavi/dataCleaningNashvilleHousing)
  
 - <b>Machine Learning</b>
-  - [AI asignments]https://github.com/LeRavi/AI-aisgnment
-  - [machine learning practice with jupiter and panda]https://github.com/LeRavi/music_machine_learning/tree/master
+  - [AI asignments](https://github.com/LeRavi/AI-aisgnment)
+  - [machine learning practice with jupiter and panda](https://github.com/LeRavi/music_machine_learning/tree/master)
  
 
 - <b>Python practice</b>
