@@ -21,6 +21,7 @@
   - [Blackjack](https://github.com/LeRavi/blackjack_game)
   - [Hangman](https://github.com/LeRavi/Hangman)
   - [Higher/Lower](https://github.com/LeRavi/higer-lower-game)
+  - [Snake](https://github.com/LeRavi/snake_game)
   
   
 
